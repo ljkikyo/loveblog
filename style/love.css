@@ -43,7 +43,7 @@
 .img{
 	width: 180px;
 	height: 180px; 
-	border-radius:180px;
+	border-radius:50%;
     -webkit-border-radius:180px;
     -moz-border-radius:180px;
     -o-border-radius:180px;
